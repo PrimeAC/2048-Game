@@ -9,3 +9,6 @@ No installation required by the user.
 #Execution
 * download code to your machine
 * run `jogo_2048()` method from Projeto2FP_tg001.py 
+
+#Notes
+* Project developed without using git.
