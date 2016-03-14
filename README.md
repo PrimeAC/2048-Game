@@ -1,7 +1,7 @@
 # 2048-Game
 
 #About
-A version of the popular game 2048 coded in Python for the Fundaments of Programming chair.
+A version of the popular game 2048 coded in Python for the Fundaments of Programming class.
 
 #Installation
 No installation required by the user.
